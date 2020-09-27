@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+	<metadata>
+		<id>Xam.Plugins.AndroidX.SlidingUpPanel</id>
+		<version>1.0.0</version>
+		<title>SlidingUpPanel for AndroidX</title>
+		<summary>Xamarin.Android binding library with AndroidX support - SlidingUpPanel</summary>
+		<description>Xamarin.Android binding library with AndroidX support - SlidingUpPanel</description>
+		<authors>Vitthal Patil</authors>
+		<projectUrl>https://github.com/vitthal-patil/AndroidXSlidingUpPanelXamarin</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<tags>xamarin android monodroid xamarin.android sliding up panel slidinguppanel sliding-up-panel</tags>
+		<dependencies>
+			<group targetFramework="MonoAndroid">
+				<dependency id="Xamarin.AndroidX.Legacy.Support.V4" version="1.0.0" />
+				<dependency id="Xamarin.AndroidX.Annotation" version="1.1.0"/>
+  				<dependency id="Xamarin.AndroidX.RecyclerView" version="1.1.0" />
+				<dependency id="Xamarin.AndroidX.Core" version="1.1.0" />
+			</group>
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="..\AndroidXSlidingUpPanelXamarin\bin\Release\Xamarin.Bindings.AndroidXSlidingUpPanel.dll" target="lib\MonoAndroid\Xamarin.Bindings.AndroidXSlidingUpPanel.dll" />
+	</files>
+</package>
