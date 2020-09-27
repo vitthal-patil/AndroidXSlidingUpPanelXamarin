@@ -1,6 +1,7 @@
 # AndroidXSlidingUpPanelXamarin
 
-Xamarin Bindings library for [hannesa2's][hannesa2] [AndroidSlidingUpPanel][AndroidSlidingUpPanel]
+Xamarin Bindings library for [hannesa2's][hannesa2] [AndroidXSlidingUpPanel][AndroidXSlidingUpPanel]
+Base library [Umano's] [Umano] [AndroidSlidingUpPanel][AndroidSlidingUpPanel]
 
 Plugin is available on [Nuget][Nuget].
 
@@ -30,6 +31,8 @@ Look at the sample project and the original project for more information.
 
 This project is licensed under the [MS-PL License](http://opensource.org/licenses/ms-pl.html)
 
+[Umano]: https://github.com/umano
+[AndroidSlidingUpPanel]: https://github.com/umano/AndroidSlidingUpPanel
 [hannesa2]: https://github.com/hannesa2
-[AndroidSlidingUpPanel]: https://github.com/hannesa2/AndroidSlidingUpPanel/
+[AndroidXSlidingUpPanel]: https://github.com/hannesa2/AndroidSlidingUpPanel/
 [Nuget]: https://www.nuget.org/packages/Xam.Plugins.AndroidX.SlidingUpPanel/
