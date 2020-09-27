@@ -1,7 +1,8 @@
 # AndroidXSlidingUpPanelXamarin
 
 Xamarin Bindings library for [hannesa2's][hannesa2] [AndroidXSlidingUpPanel][AndroidXSlidingUpPanel]
-Base library [Umano's] [Umano] [AndroidSlidingUpPanel][AndroidSlidingUpPanel]
+
+Base library [Umano's][Umano] [AndroidSlidingUpPanel][AndroidSlidingUpPanel]
 
 Plugin is available on [Nuget][Nuget].
 
