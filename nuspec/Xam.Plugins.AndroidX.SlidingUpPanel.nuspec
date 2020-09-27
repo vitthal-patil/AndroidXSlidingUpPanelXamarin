@@ -7,8 +7,8 @@
 		<summary>Xamarin.Android binding library with AndroidX support - SlidingUpPanel</summary>
 		<description>Xamarin.Android binding library with AndroidX support - SlidingUpPanel</description>
 		<authors>Vitthal Patil</authors>
+		<license type="expression">MIT</license>
 		<projectUrl>https://github.com/vitthal-patil/AndroidXSlidingUpPanelXamarin</projectUrl>
-		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<tags>xamarin android monodroid xamarin.android sliding up panel slidinguppanel sliding-up-panel</tags>
 		<dependencies>
 			<group targetFramework="MonoAndroid">
